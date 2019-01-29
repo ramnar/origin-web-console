@@ -10,3 +10,4 @@
  *
  * You can modify this file to test extensions in a development environment.
  */
+window.OPENSHIFT_CONSTANTS.HELP['get_started_cli']      = "https://github.com/";
